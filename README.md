@@ -106,9 +106,10 @@ pip install -r requirements.txt
 
 ### Графики обучения
 В ноутбуке строятся графики функции потерь и метрики Dice.
-![Training Plot](training_plot_classification.png) *(Пример ссылки на изображение)*
+![Training Plot](training_plot_classification.png)
 
 ### Примеры предсказаний
+![Prediction sample](visualization_clean.png)
 Используется сетка 3×3, где:
 *   <span style="color:green">Зелёный текст</span> — правильные предсказания.
 *   <span style="color:red">Красный текст</span> — ошибки (FP/FN).
