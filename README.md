@@ -79,10 +79,7 @@
     ```bash
     jupyter notebook clouds_nn.ipynb
     ```
-    Или как Python-скрипт:
-    ```bash
-    python clouds_nn.py
-    ```
+
 
 ## 📦 Зависимости
 *   Python 3.8+
